@@ -7,6 +7,7 @@ var downloadUrl1="https://gofile.io/d/7CseNq";
 var downloadUrl2="https://ranoz.gg/file/5W3vo8HJ";
 var downloadUrl3="https://mega.nz/file/3ogQ1YJS#SlTAAJcXrz6jxPGdHWFPgrmLWz8TB5zGmoiP-CO2xro";
 var downloadUrl4="https://share.feijipan.com/s/S2VMRPug";
+var downloadUrl4="https://pan.xunlei.com/s/VOmWyoB2IxgseaQ-e6zza-VeA1?pwd=gr7p";
 
 // 友情鏈接資料陣列
 const friendLinks = [
@@ -120,6 +121,9 @@ document.addEventListener('DOMContentLoaded', function() {
   }
   if(document.getElementById('download4')!=null){
     document.getElementById('download4').href=downloadUrl4;
+  }
+  if(document.getElementById('download5')!=null){
+    document.getElementById('download5').href=downloadUrl5;
   }
 
   // 創建modal元素（如果頁面上還沒有）
