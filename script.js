@@ -6,8 +6,8 @@ var downloadUrl="javascript:void(0);";
 var downloadUrl1="https://gofile.io/d/z4WtsF";
 var downloadUrl2="https://ranoz.gg/file/xbRD7595";
 var downloadUrl3="https://mega.nz/file/6lZ2FaLQ#TJ_1HDVn4vV2kTIsKDMyMBiS3USBJ0sn9vd85WWc69c";
-var downloadUrl4="https://share.feijipan.com/s/S2VMRPug";
-var downloadUrl4="https://pan.xunlei.com/s/VOmWyoB2IxgseaQ-e6zza-VeA1?pwd=gr7p";
+var downloadUrl4="https://share.feijipan.com/s/561GeOre";
+var downloadUrl4="https://pan.xunlei.com/s/VOmagxEZ8RW4AUE2bC8rbIxXA1?pwd=jqx7";
 
 // 友情鏈接資料陣列
 const friendLinks = [
