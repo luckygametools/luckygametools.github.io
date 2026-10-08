@@ -3,3 +3,14 @@ data/steam-game-aliases/README.md
 data/steam-game-aliases/manifest.json
 data/steam-game-aliases/appids.json
 scripts/
+openspec/changes/organize-project-workspace/README.md
+openspec/changes/organize-project-workspace/.openspec.yaml
+openspec/config.yaml
+.agents/skills/openspec-update-change/SKILL.md
+.agents/skills/openspec-sync-specs/SKILL.md
+.agents/skills/openspec-propose/SKILL.md
+.agents/skills/openspec-explore/SKILL.md
+.agents/skills/openspec-archive-change/SKILL.md
+.agents/skills/openspec-apply-change/SKILL.md
+.agents/skills/.openspec-target
+openspec/
