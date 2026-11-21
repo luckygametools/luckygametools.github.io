@@ -1,6 +1,6 @@
 // Shared JavaScript for Lucky Game Tools.
 var downloadUrl = "javascript:void(0);";
-var downloadUrl1 = "https://gofile.io/d/Ieco8Biy";
+var downloadUrl1 = "https://gofile.io/d/vZKYaitk";
 var downloadUrl2 = "https://ranoz.gg/file/gz4D1EI2";
 var downloadUrl3 = "https://mega.nz/file/L0pFxayB#p7Gq2FElTA0VXNovkYvd5oXKUaCD0otgaruD6plpsFI";
 var downloadUrl4 = "https://share.feijipan.com/s/Tf7JLmpK";
